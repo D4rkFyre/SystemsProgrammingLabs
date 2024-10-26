@@ -1,0 +1,9 @@
+﻿  Base.cpp
+D:\FS\SPG\SPG Test Folder\WoodsAaronLab8-Extra (Rule of 3)\WoodsAaronLab8\Base.cpp(20,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FS\SPG\SPG Test Folder\WoodsAaronLab8-Extra (Rule of 3)\WoodsAaronLab8\Base.cpp(38,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Employee.cpp
+  Student.cpp
+  WoodsAaronLab8.cpp
+  Generating Code...
+  LINK : D:\FS\SPG\SPG Test Folder\WoodsAaronLab8-Extra (Rule of 3)\x64\Debug\WoodsAaronLab8.exe not found or not built by the last incremental link; performing full link
+  WoodsAaronLab8.vcxproj -> D:\FS\SPG\SPG Test Folder\WoodsAaronLab8-Extra (Rule of 3)\x64\Debug\WoodsAaronLab8.exe

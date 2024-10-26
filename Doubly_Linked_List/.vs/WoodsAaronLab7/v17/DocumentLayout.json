@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FS\\SPG\\WoodsAaronLab7-(DList)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC4F6DD-4923-4707-BA9A-1AB2943CEAAA}|WoodsAaronLab7\\WoodsAaronLab7.vcxproj|D:\\FS\\SPG\\WoodsAaronLab7-(DList)\\WoodsAaronLab7\\DList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFC4F6DD-4923-4707-BA9A-1AB2943CEAAA}|WoodsAaronLab7\\WoodsAaronLab7.vcxproj|solutionrelative:WoodsAaronLab7\\DList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC4F6DD-4923-4707-BA9A-1AB2943CEAAA}|WoodsAaronLab7\\WoodsAaronLab7.vcxproj|D:\\FS\\SPG\\WoodsAaronLab7-(DList)\\WoodsAaronLab7\\WoodsAaronLab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFC4F6DD-4923-4707-BA9A-1AB2943CEAAA}|WoodsAaronLab7\\WoodsAaronLab7.vcxproj|solutionrelative:WoodsAaronLab7\\WoodsAaronLab7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DList.h",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab7-(DList)\\WoodsAaronLab7\\DList.h",
+              "RelativeDocumentMoniker": "WoodsAaronLab7\\DList.h",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab7-(DList)\\WoodsAaronLab7\\DList.h",
+              "RelativeToolTip": "WoodsAaronLab7\\DList.h",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T22:36:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WoodsAaronLab7.cpp",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab7-(DList)\\WoodsAaronLab7\\WoodsAaronLab7.cpp",
+              "RelativeDocumentMoniker": "WoodsAaronLab7\\WoodsAaronLab7.cpp",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab7-(DList)\\WoodsAaronLab7\\WoodsAaronLab7.cpp",
+              "RelativeToolTip": "WoodsAaronLab7\\WoodsAaronLab7.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T22:36:39.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

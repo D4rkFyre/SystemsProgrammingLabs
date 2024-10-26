@@ -1,0 +1,35 @@
+Write your debugging steps and thought process here (This is part of your grade)
+
+* First, scan the entire project to find any 'new' keywords and take note of their location(s).
+
+* Add initial bullet points of each file to be debugged, add tabbed bullet points in each file's section for each fix.
+  
+* Inventory.h: 
+
+	* Made an Inventory() destructor.
+	
+	* Deleted newed nSize variable at the end of the Print() method in Inventory.h
+
+	* Made a loop in the Inventory destructor to delete all newed Items from m_Items after printing.
+
+* Item.h / Item.cpp:
+
+	* Used delete on the extra m_Value variable assignment in the Item() constructor. No need to create the same variable twice in a row...
+	
+	* Made an Item() destructor in Item.h and Item.cpp (declared in .h, defined in .cpp).
+
+	* Added a delete m_Value command inside the Item destructor.
+
+	* Deleted newed value variable at the end of the Print() method in Item.cpp
+
+* ScopeMain.cpp:
+	
+	* Deleted the newed variable 's'
+
+* Store.h / Store.cpp:
+	
+	* Deleted newed variable 'helperItem'
+
+	* Made a destructor for the Store class (declared in .h defined in .cpp)
+
+	* Added a delete[] m_Inventories line inside the Store destructor.

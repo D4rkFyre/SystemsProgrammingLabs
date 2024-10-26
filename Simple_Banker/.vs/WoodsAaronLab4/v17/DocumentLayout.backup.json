@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\WoodsAaronLab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|solutionrelative:WoodsAaronLab4\\WoodsAaronLab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|solutionrelative:WoodsAaronLab4\\Helper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\CreditAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|solutionrelative:WoodsAaronLab4\\CreditAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|solutionrelative:WoodsAaronLab4\\CheckingAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\BaseAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|solutionrelative:WoodsAaronLab4\\BaseAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7F7575-C65B-46C4-AEE2-B8F872A49106}|WoodsAaronLab4\\WoodsAaronLab4.vcxproj|solutionrelative:WoodsAaronLab4\\SavingsAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.h",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\Helper.h",
+              "RelativeDocumentMoniker": "WoodsAaronLab4\\Helper.h",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\Helper.h",
+              "RelativeToolTip": "WoodsAaronLab4\\Helper.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T17:41:13.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckingAccount.cpp",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\CheckingAccount.cpp",
+              "RelativeDocumentMoniker": "WoodsAaronLab4\\CheckingAccount.cpp",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\CheckingAccount.cpp",
+              "RelativeToolTip": "WoodsAaronLab4\\CheckingAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T17:37:44.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditAccount.cpp",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\CreditAccount.cpp",
+              "RelativeDocumentMoniker": "WoodsAaronLab4\\CreditAccount.cpp",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\CreditAccount.cpp",
+              "RelativeToolTip": "WoodsAaronLab4\\CreditAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T17:37:44.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WoodsAaronLab4.cpp",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\WoodsAaronLab4.cpp",
+              "RelativeDocumentMoniker": "WoodsAaronLab4\\WoodsAaronLab4.cpp",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\WoodsAaronLab4.cpp",
+              "RelativeToolTip": "WoodsAaronLab4\\WoodsAaronLab4.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAHsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T17:37:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SavingsAccount.cpp",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\SavingsAccount.cpp",
+              "RelativeDocumentMoniker": "WoodsAaronLab4\\SavingsAccount.cpp",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\SavingsAccount.cpp",
+              "RelativeToolTip": "WoodsAaronLab4\\SavingsAccount.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T17:37:45.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseAccount.cpp",
+              "DocumentMoniker": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\BaseAccount.cpp",
+              "RelativeDocumentMoniker": "WoodsAaronLab4\\BaseAccount.cpp",
+              "ToolTip": "D:\\FS\\SPG\\WoodsAaronLab4-(Banker)\\WoodsAaronLab4\\BaseAccount.cpp",
+              "RelativeToolTip": "WoodsAaronLab4\\BaseAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T17:37:45.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
